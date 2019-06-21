@@ -21,6 +21,7 @@ public class Shop {
     private String phone;
     private String shopImg;
     private Integer priority;
+    private String shopAddr;
     private Date createTime;
     private Date lastEditTime;
     /**
